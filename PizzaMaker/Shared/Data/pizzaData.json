@@ -1,0 +1,143 @@
+[
+    {
+        "id": "aa32jj887hhg55",
+        "name": "Meat Lover's",
+        "description": "Meat lover's pizza with a mozzarella cheese and red sauce base. It contains sausage, chicken, pepperoni, and ham.",
+        "isVegetarian": false,
+        "isGlutenFree": false,
+        "imageName": "meatlovers",
+        "tabID": 1,
+        "price": 15
+    },
+    {
+        "id": "bb32jj887hhg77",
+        "name": "Hawaiian",
+        "description": "Classic hawaiian pizza with a mozzarella cheese and red sauce base. It is topped with pineapple and ham.",
+        "isVegetarian": false,
+        "isGlutenFree": true,
+        "imageName": "hawaiian",
+        "tabID": 1,
+        "price": 20
+    },
+    {
+        "id": "cc32jj887hhg66",
+        "name": "Veggie Lover's",
+        "description": "Veggie lover's pizza with a mozzarella cheese and red sauce base. It contains spinach, tomatoes, onion, bell peppers, olives, and mushroom.",
+        "isVegetarian": true,
+        "isGlutenFree": true,
+        "imageName": "veggielovers",
+        "tabID": 1,
+        "price": 10
+    },
+    {
+        "id": "dd32jj887hhg88",
+        "name": "Pepperoni",
+        "description": "Classic pepperoni pizza with a mozzarella cheese and red sauce base, topped with freshly sliced pepperoni.",
+        "isVegetarian": false,
+        "isGlutenFree": false,
+        "imageName": "pepperoni",
+        "tabID": 1,
+        "price": 10
+    },
+    {
+        "id": "ee32jj887hhg99",
+        "name": "Three Cheeses",
+        "description": "Pizza made with an alfredo sauce base and topped with mozzarella, parmesan, and ricotta cheese.",
+        "isVegetarian": true,
+        "isGlutenFree": true,
+        "imageName": "cheesepizza",
+        "tabID": 1,
+        "price": 10
+    },
+    {
+        "id": "ff32jj887hhg88",
+        "name": "Pepsi",
+        "description": "2 liter bottle of Pepsi.",
+        "isVegetarian": true,
+        "isGlutenFree": true,
+        "imageName": "pepsi",
+        "tabID": 2,
+        "price": 2
+    },
+    {
+        "id": "gg32jj887hhg88",
+        "name": "Coca Cola",
+        "description": "2 liter bottle of Coca Cola.",
+        "isVegetarian": true,
+        "isGlutenFree": true,
+        "imageName": "cocacola",
+        "tabID": 2,
+        "price": 2
+    },
+    {
+        "id": "hh32jj887hhg88",
+        "name": "Root Beer",
+        "description": "2 liter bottle of MUG root beer.",
+        "isVegetarian": true,
+        "isGlutenFree": true,
+        "imageName": "rootbeer",
+        "tabID": 2,
+        "price": 3
+    },
+    {
+        "id": "ii32jj887hhg88",
+        "name": "Mountain Dew",
+        "description": "2 liter bottle of Mountain Dew.",
+        "isVegetarian": true,
+        "isGlutenFree": true,
+        "imageName": "mountaindew",
+        "tabID": 2,
+        "price": 3
+    },
+    {
+        "id": "jj32jj887hhg88",
+        "name": "7 Up",
+        "description": "2 liter bottle of 7 Up.",
+        "isVegetarian": true,
+        "isGlutenFree": true,
+        "imageName": "sevenup",
+        "tabID": 2,
+        "price": 2
+    },
+    {
+        "id": "kk32jj887hhg88",
+        "name": "Brownie",
+        "description": "A freshly baked brownie made with triple chocolate.",
+        "isVegetarian": true,
+        "isGlutenFree": false,
+        "imageName": "brownie",
+        "tabID": 3,
+        "price": 3
+    },
+    {
+        "id": "ll32jj887hhg88",
+        "name": "Chocolate-Chip Cookie",
+        "description": "A freshly baked palm-sized chocolate chip cookie. Made with gluten-free cookie dough.",
+        "isVegetarian": true,
+        "isGlutenFree": true,
+        "imageName": "cookie",
+        "tabID": 3,
+        "price": 2
+    },
+    {
+        "id": "mm32jj887hhg88",
+        "name": "Vanilla Sundae",
+        "description": "A refreshing scoop of vanilla ice cream.",
+        "isVegetarian": true,
+        "isGlutenFree": true,
+        "imageName": "sundae",
+        "tabID": 3,
+        "price": 5
+    },
+    {
+        "id": "nn32jj887hhg88",
+        "name": "Apple Pie",
+        "description": "A slice of freshly baked apple pie.",
+        "isVegetarian": true,
+        "isGlutenFree": false,
+        "imageName": "pie",
+        "tabID": 3,
+        "price": 5
+    },
+    
+]
