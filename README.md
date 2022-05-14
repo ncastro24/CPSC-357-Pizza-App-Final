@@ -11,3 +11,7 @@ Final Project: Pizza App
 A simple pizza ordering app that takes vegetarian and gluten-free needs into account with toggles. 
 
 iOS iPhone 11 is the recommended simulator.
+
+# Additional Resources
+
+Referenced a video by Design Code for the cart (provided by Yuki Chen): https://www.youtube.com/watch?v=fwG1pDgytDc
